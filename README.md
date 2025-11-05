@@ -1,4 +1,5 @@
 # Ignite AI Wrapper Competition
+![image_alt](https://github.com/shoaibgi/Brain-Tumor-Segmentation/blob/main/Acceptance%20Letter.png?raw=true)
 # NeuroVision Tumor Segmentation
 ![image_alt](https://github.com/shoaibgi/Brain-Tumor-Segmentation/blob/main/Neuro-VisionAI.png?raw=true)
 # Tumor Segmentation
